@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-6">
+  <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+</svg>
+[
+  { id: 51, title: "Intro to Product Management", modules: 10, author: "Liam Carter" },
+  { id: 52, title: "Modern Frontend Workflow", modules: 12, author: "Chloe Anderson" },
+  { id: 53, title: "3D Web Dev with Three.js", modules: 9, author: "Ethan Ross" },
+  { id: 54, title: "Augmented Reality Design", modules: 11, author: "Nora Clarke" },
+  { id: 55, title: "AI for Business Strategy", modules: 15, author: "Lucas Turner" },
+  { id: 56, title: "Creative Coding with p5.js", modules: 8, author: "Ruby Howard" },
+  { id: 57, title: "Data Visualization in D3.js", modules: 13, author: "Zara Collins" },
+  { id: 58, title: "Digital Photography Basics", modules: 10, author: "Max Garcia" },
+  { id: 59, title: "C# for Game Development", modules: 12, author: "Sophia Perez" },
+  { id: 60, title: "Deep Learning Applications", modules: 16, author: "Eli Barnes" },
+  { id: 61, title: "UI Design Systems in Figma", modules: 11, author: "Amelia Gray" },
+  { id: 62, title: "Cloud Infrastructure Setup", modules: 14, author: "Dylan Carter" },
+  { id: 63, title: "Responsive Email Design", modules: 8, author: "Layla Thomas" },
+  { id: 64, title: "Intro to Docker Containers", modules: 10, author: "Hugo Watson" },
+  { id: 65, title: "GraphQL API Development", modules: 13, author: "Isla Robinson" },
+  { id: 66, title: "Automated Testing with Jest", modules: 9, author: "Noah Reed" },
+  { id: 67, title: "UX Research & Case Studies", modules: 12, author: "Maya Brooks" },
+  { id: 68, title: "Serverless Cloud Functions", modules: 11, author: "Zane Cooper" },
+  { id: 69, title: "UI Prototyping in Figma", modules: 8, author: "Sophie Evans" },
+  { id: 70, title: "Kubernetes Crash Course", modules: 13, author: "Jack Phillips" },
+  { id: 71, title: "Creative Portfolio Building", modules: 10, author: "Ava Murphy" },
+  { id: 72, title: "Digital Illustration Mastery", modules: 14, author: "Isaiah Bennett" },
+  { id: 73, title: "Intro to Computer Vision", modules: 11, author: "Ella Foster" },
+  { id: 74, title: "Data Structures & Algorithms", modules: 15, author: "Cameron Lewis" },
+  { id: 75, title: "Mobile UI Animation Tricks", modules: 10, author: "Hazel Rivera" },
+  { id: 76, title: "SaaS Product Development", modules: 13, author: "Owen Bailey" },
+  { id: 77, title: "Natural Language Processing", modules: 16, author: "Luna Scott" },
+  { id: 78, title: "Web Accessibility Guide", modules: 8, author: "Leo Hayes" },
+  { id: 79, title: "React Hooks Deep Dive", modules: 11, author: "Ella Collins" },
+  { id: 80, title: "Python Automation Projects", modules: 13, author: "Marcus Hill" },
+  { id: 81, title: "SEO Optimization Mastery", modules: 10, author: "Chloe Morgan" },
+  { id: 82, title: "Intro to AR with Unity", modules: 12, author: "Noah Stewart" },
+  { id: 83, title: "Web Performance Tuning", modules: 9, author: "Ruby Ross" },
+  { id: 84, title: "UI Color Theory in Practice", modules: 11, author: "Grace Mitchell" },
+  { id: 85, title: "Cloud Security Principles", modules: 14, author: "Henry Adams" },
+  { id: 86, title: "Advanced Git Operations", modules: 8, author: "Isabella Roberts" },
+  { id: 87, title: "Creative Motion Design", modules: 10, author: "Ethan Lee" },
+  { id: 88, title: "Automating Workflows in JS", modules: 13, author: "Nora Perry" },
+  { id: 89, title: "UI Wireframing Workshop", modules: 9, author: "Liam Kelly" },
+  { id: 90, title: "Backend APIs with Express", modules: 14, author: "Sienna Brooks" },
+  { id: 91, title: "Intro to Data Engineering", modules: 15, author: "Oliver Rivera" },
+  { id: 92, title: "Next-Level Tailwind Design", modules: 8, author: "Hazel Moore" },
+  { id: 93, title: "Mobile App Deployment", modules: 10, author: "Isaac Bailey" },
+  { id: 94, title: "Generative AI Essentials", modules: 12, author: "Ava Reed" },
+  { id: 95, title: "UI Design with Motion Tools", modules: 11, author: "Dylan James" },
+  { id: 96, title: "Dev Portfolio Development", modules: 9, author: "Sophia Carter" },
+  { id: 97, title: "Server Security Hardening", modules: 14, author: "Leo Parker" },
+  { id: 98, title: "TypeScript React Projects", modules: 10, author: "Ruby Collins" },
+  { id: 99, title: "Frontend Debugging Skills", modules: 8, author: "Jack Turner" },
+  { id: 100, title: "Machine Learning Systems", modules: 16, author: "Maya Anderson" }
+]
+
+ <div className="footer-left-divs">
+                    <div className="footer-left-div-one">
+                        <h1 className="logo"><span className="skill">Skill</span><span className="nest">Nest</span></h1>
+                    </div>
+                    <div className="footer-left-div-two">
+                        <p>Skill nest is the top-leading platform for learning digital skills, with great instructors and a robust curriculum, we got you covered 😉!</p>
+                    </div>
+                </div>
+                <div className="footer-right-divs">
+                    <div className="footer-right-div-one">
+                        <a href="#" className="footer-top-link">Home</a>
+                        <a href="#">Courses</a>
+                        <a href="#">Blogs</a>
+                    </div>
+                    <div className="footer-right-div-one">
+                        <a href="#" className="footer-top-link">About Us</a>
+                        <a href="#">Socials</a>
+                        <a href="#">Github</a>
+                    </div>
+                    <div className="footer-right-div-one">
+                        <a href="#" className="footer-top-link">Follow Us</a>
+                        <a href="#">Instagram</a>
+                        <a href="#">LinkedIn</a>
+                    </div>
+                </div>
