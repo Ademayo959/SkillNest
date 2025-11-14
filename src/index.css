@@ -439,6 +439,7 @@ html {
   width: 34rem;
   border-radius: 20px;
   height: 22rem;
+  object-fit: cover;
 }
 
 .blog-img-bottom-div {
