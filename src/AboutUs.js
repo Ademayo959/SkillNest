@@ -106,7 +106,9 @@ const AboutUs = () => {
             </div>
             <div className='aboutUsTryit'>
                 <h1>Your Tech Career is just one Click away</h1>
-                <button>Try It Now For Free</button>
+                <Link to="/">
+                    <button>Try It Now For Free</button>
+                </Link>
             </div>
         </div>
     );
